@@ -1,2 +1,1 @@
-# boats
 Duncan's Boats
